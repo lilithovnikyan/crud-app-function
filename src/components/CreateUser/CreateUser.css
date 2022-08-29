@@ -1,0 +1,18 @@
+.create-user {
+  background-color: rgb(25, 118, 210);
+  width: 200px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border-radius: 4px;
+  margin: 30px auto;
+  border: 0;
+  outline: 0;
+  font-size: 17px;
+}
+.create-user:hover {
+  background-color: rgb(75 152 229);
+  cursor: pointer;
+}
